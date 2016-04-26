@@ -1,0 +1,19 @@
+{
+  "name": "raptorize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/raptorize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nozzlegear/jquery-raptorize.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nozzlegear/jquery-raptorize/issues"
+  },
+  "homepage": "https://github.com/nozzlegear/jquery-raptorize#readme"
+}
